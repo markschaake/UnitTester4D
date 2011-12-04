@@ -1,0 +1,35 @@
+`***********************************************************************
+` UnitTester method: [m_name]
+` Method under test: [m_tested]
+` Method under test syntax: [m_syntax]
+` Date created: [d_created]
+` Created by: [user]
+`***********************************************************************
+
+`-----------------------------------------------------------------------
+`@Setup Fixtures // Define variables, create temporary records, etc.
+`-----------------------------------------------------------------------
+If(True)
+Unit_CustomLogTextSet("";Current method name) `text will print out to the log file
+START TRANSACTION `use a transaction if you are modifying data. Cancel in @Tear Down
+Unit_Mock_Setup `to preserve sequence numbers on tables for which records are added with Unit_Mock_RecordCreate
+[expected_return]`[m_tested] Parameters: [params]
+
+`Other variables:
+
+End if
+
+`-----------------------------------------------------------------------
+`@Tests // Write your tests here.
+`-----------------------------------------------------------------------
+If(Unit_BeginTest("Default failing test";Current method name))
+[test_body]Unit_Fail("Not yet implemented") `forces failure of the test
+End if
+
+`-----------------------------------------------------------------------
+`@Tear Down // Delete temporary records, clear process vars, etc.
+`-----------------------------------------------------------------------
+If(True)
+CANCEL TRANSACTION `automatically delete all records created in the test (requires call to START TRANSACTION at beginning)
+Unit_Mock_TearDown `restore sequence numbers on tables for which records are added with Unit_Mock_RecordCreate
+End if

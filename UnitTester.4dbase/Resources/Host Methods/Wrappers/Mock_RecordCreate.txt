@@ -1,0 +1,31 @@
+  `Wrapper for Unit_Mock_RecordCreate
+
+  `Returns
+C_LONGINT($0;$id_l)
+  ` Required Parameters: 
+C_POINTER($1;$table_p)
+
+  `Optional Parameters: field - value pairs
+C_POINTER($2;${3})
+
+$table_p:=$1
+
+EXECUTE METHOD("Unit_Mock_RecordCreate";$id_l;$table_p)
+
+If ($id_l>0) & (Count parameters>=3) & (Count parameters%2=1)
+	
+	  `Load the newly created record
+	READ WRITE($table_p->)
+	QUERY($table_p->;Field(Table($table_p);1)->=$id_l)
+	
+	`Assign field values
+	For ($i;2;Count parameters;2)
+		${$i}->:=${$i+1}->
+	End for 
+	
+	SAVE RECORD($table_p->)
+	UNLOAD RECORD($table_p->)
+	
+End if 
+
+$0:=$id_l

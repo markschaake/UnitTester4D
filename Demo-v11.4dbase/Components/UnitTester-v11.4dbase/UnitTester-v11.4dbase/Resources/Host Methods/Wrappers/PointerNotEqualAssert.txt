@@ -1,0 +1,18 @@
+`This method wraps Unit_PointerNotEqualAssert
+
+`Required parameters
+C_POINTER($1;$expected_p;$2;$actual_p)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_p:=$1
+$actual_p:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_PointerNotEqualAssert";*;$expected_p;$actual_p;$message_t)

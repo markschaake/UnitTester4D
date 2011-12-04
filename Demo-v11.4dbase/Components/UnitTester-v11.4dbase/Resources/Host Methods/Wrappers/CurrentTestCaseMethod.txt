@@ -1,0 +1,5 @@
+C_TEXT($0;$method_t)
+
+EXECUTE METHOD("Unit_CurrentTestCaseMethod";$method_t)
+
+$0:=$method_t

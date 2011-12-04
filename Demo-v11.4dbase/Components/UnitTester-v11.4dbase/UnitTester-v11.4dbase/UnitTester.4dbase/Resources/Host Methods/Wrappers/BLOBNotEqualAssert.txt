@@ -1,0 +1,18 @@
+`This method wraps Unit_BLOBNotEqualAssert
+
+`Required parameters
+C_BLOB($1;$expected_blob;$2;$actual_blob)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_blob:=$1
+$actual_blob:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_BLOBNotEqualAssert";*;$expected_blob;$actual_blob;$message_t)

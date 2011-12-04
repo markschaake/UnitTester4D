@@ -1,0 +1,6 @@
+C_TEXT($1;$message_t;$2;$testCaseMethod_t)
+
+$message_t:=$1
+$testCaseMethod_t:=$2
+
+EXECUTE METHOD("Unit_CustomLogTextSet";*;$message_t;$testCaseMethod_t)

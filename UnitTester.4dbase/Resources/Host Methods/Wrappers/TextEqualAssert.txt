@@ -1,0 +1,18 @@
+`This method wraps Unit_TextEqualAssert
+
+`Required parameters
+C_TEXT($1;$expected_t;$2;$actual_t)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_t:=$1
+$actual_t:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_TextEqualAssert";*;$expected_t;$actual_t;$message_t)

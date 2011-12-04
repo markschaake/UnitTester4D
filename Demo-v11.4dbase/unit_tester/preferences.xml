@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Preferences>
+  <Item id="build_path"/>
+  <Item id="post_build_method"/>
+  <Item id="test_method_prefix">_</Item>
+  <Item id="hide_passes">false</Item>
+  <Item id="create_test_default">true</Item>
+  <Item id="feedback_by">Mark Schaake</Item>
+  <Item id="feedback_email">mark@schaakeconsulting.com</Item>
+  <Item id="datatype_prefix_30"/>
+  <Item id="datatype_suffix_30">_blob</Item>
+  <Item id="datatype_prefix_6"/>
+  <Item id="datatype_suffix_6">_b</Item>
+  <Item id="datatype_prefix_4"/>
+  <Item id="datatype_suffix_4">_d</Item>
+  <Item id="datatype_prefix_8"/>
+  <Item id="datatype_suffix_8">_i</Item>
+  <Item id="datatype_prefix_9"/>
+  <Item id="datatype_suffix_9">_l</Item>
+  <Item id="datatype_prefix_3"/>
+  <Item id="datatype_suffix_3">_pic</Item>
+  <Item id="datatype_prefix_23"/>
+  <Item id="datatype_suffix_23">_ptr</Item>
+  <Item id="datatype_prefix_1"/>
+  <Item id="datatype_suffix_1">_r</Item>
+  <Item id="datatype_prefix_2"/>
+  <Item id="datatype_suffix_2">_t</Item>
+  <Item id="datatype_prefix_11"/>
+  <Item id="datatype_suffix_11">_time</Item>
+  <Item id="version">1.2.0</Item>
+  <Item id="conventions_strict">true</Item>
+</Preferences>

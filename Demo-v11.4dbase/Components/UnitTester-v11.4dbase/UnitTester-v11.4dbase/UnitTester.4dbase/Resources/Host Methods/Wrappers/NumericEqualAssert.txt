@@ -1,0 +1,25 @@
+`This method wraps Unit_NumericEqualAssert
+
+`Required parameters
+C_REAL($1;$expected_r;$2;$actual_r)
+
+`Optional parameters
+C_REAL($3;$tolerance_r)
+C_TEXT($4;$message_t)
+
+$expected_r:=$1
+$actual_r:=$2
+
+if(Count parameters>=3)
+  $tolerance_r:=$3
+Else
+  $tolerance_r:=0.0
+End if
+
+if(Count parameters>=4)
+  $message_t:=$4
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_NumericEqualAssert";*;$expected_r;$actual_r;$tolerance_r;$message_t)

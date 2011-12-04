@@ -1,0 +1,17 @@
+`This method wraps Unit_FalseAssert
+
+`Required parameters
+C_BOOLEAN($1;$actual_b)
+
+`Optional parameters
+C_TEXT($2;$message_t)
+
+$actual_b:=$1
+
+if(Count parameters>=2)
+  $message_t:=$2
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_FalseAssert";*;$actual_b;$message_t)

@@ -1,0 +1,8 @@
+`This method wraps Unit_Fail
+
+`Required parameters
+C_TEXT($1;$message_t)
+
+$message_t:=$1
+
+EXECUTE METHOD("Unit_Fail";*;$message_t)

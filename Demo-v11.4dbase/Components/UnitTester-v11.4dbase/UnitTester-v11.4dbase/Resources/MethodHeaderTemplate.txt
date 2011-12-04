@@ -1,0 +1,15 @@
+` Method Name: [m_name]
+` Syntax: [m_syntax]
+` Created by: [user] on: [d_created]
+` Description:
+[description]
+
+` Returns: [return]
+
+` Required Parameters: [required]
+
+` Optional Parameters: [optional]
+
+` Other Variables:
+
+[assignment]

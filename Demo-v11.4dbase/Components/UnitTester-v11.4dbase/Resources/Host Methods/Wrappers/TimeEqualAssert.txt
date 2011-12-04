@@ -1,0 +1,18 @@
+`This method wraps Unit_TimeEqualAssert
+
+`Required parameters
+C_TIME($1;$expected_time;$2;$actual_time)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_time:=$1
+$actual_time:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_TimeEqualAssert";*;$expected_time;$actual_time;$message_t)

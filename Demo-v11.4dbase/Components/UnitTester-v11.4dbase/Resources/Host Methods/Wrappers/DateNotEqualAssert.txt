@@ -1,0 +1,18 @@
+`This method wraps Unit_DateNotEqualAssert
+
+`Required parameters
+C_DATE($1;$expected_d;$2;$actual_d)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_d:=$1
+$actual_d:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_DateNotEqualAssert";*;$expected_d;$actual_d;$message_t)

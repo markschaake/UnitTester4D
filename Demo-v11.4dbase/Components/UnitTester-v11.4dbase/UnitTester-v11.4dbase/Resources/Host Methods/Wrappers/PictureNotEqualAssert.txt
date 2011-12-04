@@ -1,0 +1,18 @@
+`This method wraps Unit_PictureNotEqualAssert
+
+`Required parameters
+C_PICTURE($1;$expected_pic;$2;$actual_pic)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_pic:=$1
+$actual_pic:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_PictureNotEqualAssert";*;$expected_pic;$actual_pic;$message_t)

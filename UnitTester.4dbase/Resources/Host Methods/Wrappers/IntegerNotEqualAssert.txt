@@ -1,0 +1,18 @@
+`This method wraps Unit_IntegerNotEqualAssert
+
+`Required parameters
+C_LONGINT($1;$expected_l;$2;$actual_l)
+
+`Optional parameters
+C_TEXT($3;$message_t)
+
+$expected_l:=$1
+$actual_l:=$2
+
+if(Count parameters>=3)
+  $message_t:=$3
+Else
+  $message_t:=""
+End if
+
+EXECUTE METHOD("Unit_IntegerNotEqualAssert";*;$expected_l;$actual_l;$message_t)

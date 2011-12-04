@@ -1,0 +1,224 @@
+THIS IS A LEGAL AGREEMENT BETWEEN YOU, THE EMPLOYEE, THE INDIVIDUAL, OR THE ENTITY IDENTIFIED AS “CUSTOMER” (AS DEFINED HEREinafter) AND SCHAAKE CONSULTING, LLC.  THIS AGREEMENT STATES THE TERMS and conditions UNDER WHICH CUSTOMER MAY USE THE UnitTester Component and Plugin. BY clicking on the accept button, INSTALLING, HAVING UnitTester Component and Plugin INSTALLED ON CUSTOMER’s BEHALF, COPYING, HAVING UnitTester Component and Plugin COPIED ON CUSTOMER’s BEHALF, USING OR HAVING UnitTester Component and Plugin USED ON CUSTOMER’s BEHALF, CUSTOMER INDICATES THAT CUSTOMER HAS READ AND UNDERSTANDS THIS AGREEMENT AND AGREES TO BE BOUND BY THE TERMS SET FORTH IN THIS AGREEMENT.  IF “UnitTester Component and Plugin” IS INSTALLED, COPIED OR USED ON BEHALF OF CUSTOMER, THE TERMS SET FORTH IN THIS AGREEMENT SHALL APPLY TO CUSTOMER AS WELL AS TO the INDIVIDUAL OR ENTITY INSTALLING, COPYING OR USING “UnitTester Component and Plugin ON BEHALF OF CUSTOMER.  this agreement shall be effective as of THE earlier of the date UnitTester Component and Plugin is installed or used.  “UnitTester Component and Plugin” SHALL BE DEEMED ACCEPTED BY CUSTOMER ON THE DATE “UnitTester Component and Plugin” IS PURCHASED BY CUSTOMER.  IF CUSTOMER DOES NOT AGREE WITH THE TERMS and conditions SET FORTH IN THIS AGREEMENT, DO NOT PURCHASE or USE “UnitTester Component and Plugin”.  DUE THE AVAILABILITY OF A FREE TRIAL IN DEMONSTRATION MODE, Schaake Consulting, LLC DOES NOT OFFER ANY REFUNDS.
+
+UnitTester Component and Plugin Agreement
+
+This UnitTester Component and Plugin Agreement (“Agreement”) is made as of the Effective Date by and between Schaake Consulting, LLC, a corporation with offices located at 3901 Fairbanks Ave, Yakima, WA 98902, USA and the individual or entity identified on the Sales Agreement as customer (“Customer”).
+
+W I T N E S S E T H:
+
+WHEREAS, Schaake Consulting, LLC owns that certain UnitTester Component and Plugin application entitled UnitTester Component and Plugin; and
+
+WHEREAS, Customer has had an opportunity to review and approve the functions and utilities of UnitTester Component and Plugin and is familiar with the use and operation of UnitTester Component and Plugin; and
+
+WHEREAS, Customer has independently determined that UnitTester Component and Plugin will meet the needs of Customer for a [Customer Software Requirements] UnitTester Component and Plugin application at the Facility (as defined below); and
+
+WHEREAS, Customer desires to receive a license to use UnitTester Component and Plugin.
+
+NOW THEREFORE, in consideration of the mutual benefits of the covenants and restrictions herein contained, Schaake Consulting, LLC and Customer hereby agree as follows:
+
+
+
+ARTICLE I: RECITALS AND DEFINITIONS
+
+Section 1.01 -- Recitals:  The above recitals and identification of parties are true and correct.
+
+Section 1.02 -- Definitions:  The following definitions shall apply:
+
+Access:  The term “Access” and variants thereof shall mean to store data in, retrieve data from or otherwise approach or make use of (directly or indirectly) through electronic means or otherwise.
+
+UnitTester Component and Plugin:  The term “UnitTester Component and Plugin” shall mean the object code for that certain UnitTester Component and Plugin application, including the Documentation, as provided by Schaake Consulting, LLC to Customer hereunder, including Updates.
+
+Associate:  The term “Associate” shall mean an employee of Schaake Consulting, LLC or an independent contractor hired by Schaake Consulting, LLC.
+
+Authorized Person:  The term “Authorized Person” shall mean Customer or employees of Customer who agree in writing to maintain the confidentiality of Confidential Information and individuals or organizations who are authorized in writing by Schaake Consulting, LLC to receive Confidential Information and who agree in writing to maintain the confidentiality of such Confidential Information.
+
+Cancellation Notice:  The term “Cancellation Notice” shall mean that written notice sent by Schaake Consulting, LLC to Customer seeking to cancel this Agreement because of breach of this Agreement by Customer.
+
+Confidential Information:  The term “Confidential Information” shall mean all information concerning this Agreement, UnitTester Component and Plugin, and the business and technical plans of Schaake Consulting, LLC which is disclosed by Schaake Consulting, LLC to Customer or learned by Customer.
+
+Defects:  The term “Defects” shall mean programming errors which substantially impair the performance, utility and functionality of UnitTester Component and Plugin, as represented in the Documentation.
+
+Defect Notice:  The term “Defect Notice” shall mean that certain written notice from Customer to Schaake Consulting, LLC identifying Defects.
+
+Delivery Date:  The term “Delivery Date” shall mean the date UnitTester Component and Plugin is delivered to Customer (as applicable).
+
+Deposit:  The term “Deposit” shall mean a sum of money equal to fifty percent (50%) of the Price.
+
+Documentation:  The term “Documentation” shall mean the UnitTester Component and Plugin user guide (in electronic or printed format) as provided to Customer on the Delivery Date.
+
+Documentation Fee:  The term “Documentation Fee” shall mean the sum of money paid by Customer to Schaake Consulting, LLC for additional copies of Documentation requested by Customer pursuant to Section 3.02. determined in accordance with Schaake Consulting, LLC then standard rates as of the date Customer’s request for additional copies of the Documentation is received by Schaake Consulting, LLC.
+
+Effective Date:  The term “Effective Date” shall mean the earlier of the date that the Sales Agreement is executed by Schaake Consulting, LLC and Customer or the date UnitTester Component and Plugin is installed or used.
+
+Event of Bankruptcy:  The term “Event of Bankruptcy” shall mean: (1) the filing of a petition under any insolvency or bankruptcy statute seeking the declaration of Customer as insolvent or bankrupt; (2) the filing of any action seeking receivership or reorganization of Customer pursuant to or under any insolvency or bankruptcy statute; or (3) the filing of any involuntary petition against Customer pursuant to any insolvency or bankruptcy statute if such petition shall remain unstayed or undismissed for a period of ten (10) days after filing.
+
+Implement:  The term “Implement” and variants thereof (including, but not limited to, the terms “implementation”, “implementing” and “implemented”) shall mean to load.
+
+Maintenance Services:  The term “Maintenance Services” shall mean Defect resolution services concerning UnitTester Component and Plugin (excluding the System) as provided by Schaake Consulting, LLC to Customer for the prevailing fees and time and material rates published by Schaake Consulting, LLC and subject to Schaake Consulting, LLC standard maintenance terms.
+
+Price:  The term “Price” shall mean the total price to be paid by Customer to Schaake Consulting, LLC for the System and for licensing UnitTester Component and Plugin, as set forth in the Price Schedule.
+
+Restatements:  The term “Restatements” shall mean Section 757 of the Restatement of Torts, Section 39 of the Restatement (Third) of Unfair Competition, Section 1 of the Uniform Trade Secrets Act, and Section 1839 of Title 18 of the United States Code (18 U.S.C. § 1839).
+
+Services:  The term “Services” shall mean Maintenance Services and that certain UnitTester Component and Plugin installation, training, telephone support, development and consulting services as requested by Customer and approved by Schaake Consulting, LLC in writing.
+
+Term:  The term “Term” shall mean a period of time commencing on the Effective Date and continuing until this Agreement is terminated or canceled under Article IV.
+
+Third Party Technology:  The term “Third Party Technology” shall mean third party software, computer, hardware, peripherals, components, devices, equipment and technology used in connection with or related to UnitTester Component and Plugin.
+
+Unauthorized Access:  The term “Unauthorized Access” shall mean any access to UnitTester Component and Plugin except for the exclusive purpose of [Primary Software Purpose], and training employees of Customer in the use of UnitTester Component and Plugin.
+
+Unauthorized User:  The term “Unauthorized User” shall mean any individual who accesses UnitTester Component and Plugin except for: (1) employees of Customer authorized by Customer to access UnitTester Component and Plugin and who agrees to maintain the confidentiality of Confidential Information for the exclusive purpose of performing [Primary Software Purpose], and training employees of Customer in the use of UnitTester Component and Plugin and (2) Authorized Persons authorized in writing by Schaake Consulting, LLC to access UnitTester Component and Plugin.
+
+Updates:  The term “Updates” shall mean the object code for updates, upgrades, new versions, new releases or modifications to UnitTester Component and Plugin as generally made available by Schaake Consulting, LLC from time to time to Schaake Consulting, LLC customers for the applicable fee.
+
+Warranty Term:  The term “Warranty Term” shall mean a period of time commencing on the Delivery Date and ending on the date which is sixty (60) days thereafter.
+
+ARTICLE II:  UnitTester Component and Plugin
+
+Section 2.01 -- Grant of License:  Schaake Consulting, LLC hereby grants to Customer a non-exclusive and non-transferable license to use UnitTester Component and Plugin and to use the Documentation at the Facility for the License Term, subject to the terms and provisions of this Agreement.  
+
+Section 2.02 -- Delivery:  Customer hereby acknowledges Schaake Consulting, LLC shall deliver UnitTester Component and Plugin on the Delivery Date.
+
+Section 2.03 -- Implementation:  Customer shall install the UnitTester Component and Plugin. Customer shall 
+implement UnitTester Component and Plugin on the System, subject to the terms and conditions of this Agreement.  
+
+Section 2.04 -- Acceptance:  UnitTester Component and Plugin shall be deemed accepted by Customer ten (10) days after the Delivery Date unless Defect Notice is received by Schaake Consulting, LLC by such tenth day.  Upon receiving Defect Notice from Customer, Schaake Consulting, LLC shall review the asserted Defect to determine if the Defect is valid.  If, in the reasonable professional judgment of Schaake Consulting, LLC the asserted Defect is valid, Schaake Consulting, LLC shall correct the Defect and resubmit UnitTester Component and Plugin for acceptance by Customer.  If, in the reasonable professional judgment of Schaake Consulting, LLC the asserted Defect is not valid, Schaake Consulting, LLC shall submit to Customer a written explanation of the reasons why such asserted Defect is not valid. The written explanation of Schaake Consulting, LLC set forth herein shall be deemed accepted by Customer within ten (10) days after receipt by Customer of such written explanation unless Schaake Consulting, LLC receives from Customer written notice rejecting such explanation and terminating this Agreement within such ten (10) day period.  Upon receipt of Defect Notice from Customer by Schaake Consulting, LLC as set forth above, UnitTester Component and Plugin shall be deemed accepted by Customer except as to the asserted Defects specified in the Defect Notice.
+
+Section 2.05 -- Risk of Loss:  Customer shall assume risk of loss to UnitTester Component and Plugin as of the Delivery Date.  Customer shall keep UnitTester Component and Plugin protected and in good working order, maintained and insured against loss for full replacement value until the date that the Price is paid in full by Customer.
+
+Section 2.06 -- Authorized Use:  Customer shall prevent Unauthorized Users from accessing UnitTester Component and Plugin.  Customer shall prevent Unauthorized Access to UnitTester Component and Plugin. Customer shall promptly inform Schaake Consulting, LLC of any and all Unauthorized Access (or suspected Unauthorized Access) and Unauthorized Users (or suspected Unauthorized Users) of which Customer has knowledge or suspicion.  Access to UnitTester Component and Plugin using third party products for purposes of manipulating, viewing, disclosing or using the internal structure of UnitTester Component and Plugin™ or for creating a database, data dictionary or data model shall be deemed Unauthorized Access.
+
+Section 2.07 -- Site Restriction:  Customer shall use UnitTester Component and Plugin only on the System and only at the Facility.
+
+Section 2.08 -- End Use:  Customer hereby represents and warrants that UnitTester Component and Plugin is being licensed by Customer for its own use at the Facility and not for rental, leasing, resale, sublicensing, distribution, outsourcing, or offering service bureau services.
+
+Section 2.09 -- Services:  Customer may request Services, as approved by Schaake Consulting, LLC.  All Services shall be subject to the discretion of Schaake Consulting, LLC and shall be subject to Schaake Consulting, LLC standard service terms and applicable time and material rates.
+
+ARTICLE III:  PAYMENT
+
+Section 3.01 -- Price:  Customer shall pay the Deposit on the Effective Date.  Customer shall pay the difference between the Price and the Deposit on the Delivery Date.
+
+Section 3.02 -- Documentation Fee:  Additional copies of the Documentation may be purchased by Customer from Schaake Consulting, LLC upon request by Customer and upon payment of the Documentation Fee.
+
+Section 3.03 -- Costs:  Customer shall pay all costs incurred by Schaake Consulting, LLC in performing this Agreement. Such costs shall include (without limitation) postage, freight, telecommunications, fees charged by third parties, telephone, travel, lodging, per diem, material and reproduction costs.
+
+Section 3.04 -- Taxes:  Customer shall pay any and all taxes attributable to this Agreement, to the transactions contemplated hereunder or to the transactions performed by Customer or third parties using UnitTester Component and Plugin, including, without limitation, any applicable sales or use taxes.  Notwithstanding the foregoing, Customer shall not be responsible for paying any income taxes assessed against Schaake Consulting, LLC.
+
+ARTICLE IV:  TERMINATION
+
+Section 4.01 -- Termination Limitations:  This Agreement shall only be terminated or canceled as provided under this Article IV.
+
+Section 4.02 -- Term:  This Agreement shall be valid for the Term.
+
+Section 4.03 -- Termination:  Customer may terminate this Agreement for convenience upon providing ten (10) days written notice of termination to Schaake Consulting, LLC, subject to the terms and provisions of this Agreement.
+
+Section 4.04 -- Cancellation for Cause:  If Customer violates its obligations under this Agreement, Schaake Consulting, LLC may cancel this Agreement by sending Cancellation Notice describing the noncompliance to Customer.  Upon receiving Cancellation Notice, Customer shall have ten (10) days from the date of such notice to cure any such noncompliance. If such noncompliance is not cured within the required ten (10) day period, Schaake Consulting, LLC shall have the right to cancel this Agreement as of the eleventh day after the date of the Cancellation Notice.
+
+Section 4.05 -- Return:  Upon termination or cancellation of this Agreement, Customer shall promptly remove (at Customer’s expense) all customer information and data stored in UnitTester Component and Plugin and shall provide Schaake Consulting, LLC with a certificate of compliance with this Section 4.05 signed by an authorized representative of Customer.  Upon termination or cancellation of this Agreement after implementation of  the UnitTester Component and Plugin, Schaake Consulting, LLC shall be entitled to retain all payments rendered to Schaake Consulting, LLC under this Agreement, including (without limitation) the Deposit, the Price, payment for the Services, and payments in anticipation of Services.
+
+ARTICLE V:  WARRANTY
+
+Section 5.01 -- Warranty:  Schaake Consulting, LLC represents and warrants that UnitTester Component and Plugin shall perform substantially as represented in the Documentation for the Warranty Term.  Customer’s exclusive remedy for breach of warranty shall be modification or replacement of UnitTester Component and Plugin, as determined by Schaake Consulting, LLC.
+
+Section 5.02 -- Third Party Warranties:  Schaake Consulting, LLC hereby assigns to Customer the benefit of any and all Manufacturer warranties for the Third Party Technology and may cooperate (as determined by Schaake Consulting, LLC) with Customer in securing the benefit of any remedies available to Customer under any such Manufacturer warranty.
+
+Section 5.03 -- Service Warranty:  Any Services provided by Schaake Consulting, LLC pursuant to this Agreement shall be performed on a reasonable efforts basis in a timely and professional manner and shall conform to the standards generally observed in the industry for similar Services and shall be subject to Sections 5.01, 5.04, 5.05 and 5.08.
+
+SECTION 5.04 -- DISCLAIMER:  THE WARRANTIES SET FORTH IN SECTIONS 5.01 AND 5.03 ARE IN LIEU OF ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, AND Schaake Consulting, LLC HEREBY DISCLAIMS AND CUSTOMER HEREBY WAIVES ALL OTHER WARRANTIES, EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) ANY AND ALL IMPLIED WARRANTIES OF FITNESS FOR A PARTICULAR PURPOSE AND IMPLIED WARRANTIES OF MERCHANTABILITY.
+
+Section 5.05 -- Express Warranties:  Customer hereby acknowledges and agrees that Schaake Consulting, LLC (including Schaake Consulting, LLC officers, employees, agents, directors, independent contractors, affiliates, distributors and successors) has not made or granted any express warranties concerning the System, the Services and UnitTester Component and Plugin except as expressly set forth in Sections 5.01 and 5.03 of this Agreement.
+
+Section 5.06 -- Third Party Claims:  If a final judgment from a court of competent jurisdiction is entered against Customer upholding claims that UnitTester Component and Plugin violates a United States patent, copyright, trade secret or other proprietary rights of a third party in the United States, provided that Customer gives Schaake Consulting, LLC prompt written notice upon Customer’s knowledge of any such claim, permits Schaake Consulting, LLC to answer and defend (at Schaake Consulting, LLC option) such claim or action and provides Schaake Consulting, LLC with information, assistance and authority to assist Schaake Consulting, LLC in the defense of such claim or action, Schaake Consulting, LLC shall perform one or more of the following actions (as determined by Schaake Consulting, LLC) within one year of the date final judgment in favor of such third party’s claim is rendered by a court of competent jurisdiction:
+
+(1)	Replacement:  Replace UnitTester Component and Plugin with a non-infringing UnitTester Component and Plugin product of substantially equivalent functional and performance capability;
+
+(2)	Modification:  Modify UnitTester Component and Plugin to avoid the infringement without substantially eliminating the functional and performance capabilities of UnitTester Component and Plugin;
+
+(3)	Obtain Agreement:  Obtain a license for use of UnitTester Component and Plugin from the third party claiming infringement for use of UnitTester Component and Plugin.
+
+Schaake Consulting, LLC shall have the right to participate or assume the defense (as determined by Schaake Consulting, LLC) and Customer shall permit and authorize Schaake Consulting, LLC to participate in or assume the defense of any such claim or action through legal counsel.  The foregoing remedy does not apply and Schaake Consulting, LLC shall have no obligation in connection with or relating to any third party infringement claim in connection with or related to (i) Customer’s modification of UnitTester Component and Plugin; (ii) Customer’s failure to use UnitTester Component and Plugin in accordance with the Documentation in effect; (iii) Customer’s failure to use the most current release or version of UnitTester Component and Plugin; (iv) Customer’s combination, interface, operation or use of UnitTester Component and Plugin with Third Party Technology; and (v) Schaake Consulting, LLC compliance with designs, instructions, or specifications required by Customer.  The remedies set forth herein shall be the sole and exclusive remedies of Customer under this Agreement for any and all claims of indemnification relating to infringement.  Schaake Consulting, LLC obligations set forth in this Section 5.06 shall not apply to the Third Party Technology.
+
+Section 5.07 -- Remedies:  The exclusive remedy of Customer for any reason and for any cause of action whatsoever in connection with or relating to this Agreement, the System, UnitTester Component and Plugin or any transaction involving UnitTester Component and Plugin, regardless of the form of action, whether in contract or in tort, including negligence and breach of warranty, shall be limited to repair or replacement of UnitTester Component and Plugin as determined by Schaake Consulting, LLC.
+
+Section 5.08 -- Limitation of Damages:  Schaake Consulting, LLC shall not be liable to Customer in connection with or relating to this Agreement, the System, UnitTester Component and Plugin and any transactions involving UnitTester Component and Plugin for any direct, indirect, lost profits, consequential, exemplary, incidental or punitive damages, regardless of the form of action, whether in contract or in tort, including breach of warranty and negligence, regardless of whether Schaake Consulting, LLC has been advised of the possibility of such damages in advance or whether such damages are reasonably foreseeable.  Notwithstanding anything to the contrary, the liability of Schaake Consulting, LLC for any reason and for any cause of action whatsoever in connection with or relating to this Agreement, the System UnitTester Component and Plugin and any transactions involving UnitTester Component and Plugin shall be limited to the license fee for UnitTester Component and Plugin.
+
+Section 5.09 -- Force Majeure:  Schaake Consulting, LLC shall not be liable for any failure by Schaake Consulting, LLC to perform its obligations under this Agreement because of circumstances beyond the reasonable control of Schaake Consulting, LLC, which such circumstances shall include (without limitation) natural disaster, terrorism, riot, sabotage, labor disputes, war, any acts or omissions of any government, governmental authority or third party, declarations of governments, transportation delays, power failure, computer failure, telecommunications failure, Third Party Technology, failure of Customer to cooperate with the reasonable requests of Schaake Consulting, LLC, misuse of the System or UnitTester Component and Plugin by Customer or third party, breach of this Agreement by Customer or a third party and any other events reasonably beyond the control of Schaake Consulting, LLC.
+
+Section 5.10 -- Customer Indemnification:  Customer shall release, defend, indemnify and hold harmless Schaake Consulting, LLC (including its officers, directors, employees, affiliates, independent contractors, distributors, agents and successors) against any expense, loss, cost or liability (including, without limitation, interest, penalties, attorney fees and paralegal fees) arising from any and all claims, demands, damages or actions resulting from or related to (1) use of UnitTester Component and Plugin by Customer, (including, without limitation, any claim regarding use of UnitTester Component and Plugin  by Customer in an infringing manner or any claim by third parties for breach of warranty, negligence, loss of data, libel, slander, unfair competition, trademark infringement, or invasion of privacy); (2) performance of UnitTester Component and Plugin; (3) Customer’s negligence or the acts (or any failure to act) of Customer hereunder; (4) any breach by Customer of the obligations of Customer hereunder; and (5) investigation or defense of any of the above or in asserting Schaake Consulting, LLC rights hereunder.
+
+Section 5.11 -- Cooperation:  Customer shall cooperate with Schaake Consulting, LLC by providing Schaake Consulting, LLC with information concerning UnitTester Component and Plugin and the System as may be requested by Schaake Consulting, LLC from time to time and by providing Schaake Consulting, LLC with unrestricted access to the personnel, facilities, computers, computer UnitTester Component and Plugin and data of Customer.
+
+Section 5.12 -- Maintenance:  Customer hereby acknowledges and agrees that Customer shall solely be responsible for acquiring, installing, implementing, updating, upgrading, maintaining and replacing the System and all Third Party Technology for any reason, including (without limitation) for Updates or correction of Defects, including (without limitation) all costs, fees, taxes and payments in connection therewith or related thereto.
+
+Section 5.13 -- Security Interest:  Schaake Consulting, LLC hereby reserves and Customer hereby grants to Schaake Consulting, LLC a purchase money security interest in the System and UnitTester Component and Plugin to secure payment of the Price by Customer.  In order to perfect such security interest, Customer hereby appoints Schaake Consulting, LLC as the true and lawful attorney-in-fact of Customer and Customer hereby authorizes Schaake Consulting, LLC to (1) execute in the name of Customer all forms, documents and financing statements deemed desirable by Schaake Consulting, LLC, and (2) file copies of the Sales Agreement, this Agreement and any forms and financing statements with appropriate government agencies and offices as deemed necessary by Schaake Consulting, LLC to perfect such purchase money security interest.
+
+Section 5.14 -- Repossession:  If Customer fails to pay the balance of the Price when due (as provided in Section 3.01 of this Agreement), Schaake Consulting, LLC shall have the right to enter the Facility and to repossess the System and UnitTester Component and Plugin without further notice.  If any Event of Bankruptcy occurs before payment of the balance of the Price when due (as provided in Section 3.01 of this Agreement), Schaake Consulting, LLC shall be entitled to any and all remedies available to a secured creditor under the U.S. Bankruptcy Code and applicable state or federal law.
+
+ARTICLE VI:  INTELLECTUAL PROPERTY
+
+Section 6.01 -- Ownership and Title:  Title to UnitTester Component and Plugin, including all ownership rights to patents, copyrights, trademarks and trade secrets therein or in connection therewith shall be the exclusive property of Schaake Consulting, LLC.  Customer hereby assigns, transfers and conveys to Schaake Consulting, LLC any and all rights, title and interests Customer may have or accrue in UnitTester Component and Plugin, including (without limitation) any and all ownership rights to patents, copyrights, trademarks and trade secrets therein or in connection therewith.
+
+Section 6.02 -- Confidential Information:  UnitTester Component and Plugin shall be deemed Confidential Information of Schaake Consulting, LLC.  Customer shall maintain the Confidential Information in strict confidence.  Customer shall not disclose Confidential Information except to Authorized Persons. Customer shall not access, duplicate or use the Confidential Information except as otherwise permitted under this Agreement.
+
+Section 6.03 -- Trade Secrets:  Customer hereby acknowledges and agrees that the Confidential Information (i) derives independent economic value (actual or potential) from not being generally known to, or readily ascertainable by, other persons who can obtain economic value from its disclosure or use; (ii) is the subject of reasonable efforts by Schaake Consulting, LLC under the circumstances to maintain its secrecy; and (iii) is a trade secret as defined under Chapter 688 of the Florida Statutes [§688.002(4)] and the Restatements.
+
+Section 6.04 -- Reverse Engineering:  Customer shall not reverse engineer UnitTester Component and Plugin and shall not allow UnitTester Component and Plugin to be reverse engineered.
+
+Section 6.05 -- Backup Copy:  Customer may create one copy of UnitTester Component and Plugin (excluding the printed Documentation) at the Facility only for routine archival or backup purposes.
+
+Section 6.06 -- Copies:  Except as provided in Section 6.05, Customer shall not copy UnitTester Component and Plugin and shall not allow UnitTester Component and Plugin to be copied without the prior written consent of Schaake Consulting, LLC.
+
+Section 6.07 -- Modifications:  Customer shall not modify UnitTester Component and Plugin and shall not allow UnitTester Component and Plugin to be modified without the prior written consent of Schaake Consulting, LLC.  Customer shall not use UnitTester Component and Plugin or any materials incident thereto to develop computer UnitTester Component and Plugin without the prior written consent of Schaake Consulting, LLC.  If UnitTester Component and Plugin is modified, such modifications shall be the sole and exclusive property of Schaake Consulting, LLC and Schaake Consulting, LLC shall own any and all rights, title and interests to such modifications and any resulting computer UnitTester Component and Plugin, including (without limitation) any and all copyrights, patents and trade secrets therein or in connection therewith.
+
+Section 6.08 -- No Contest:  Customer shall not contest or aid in contesting the ownership or validity of the trademarks, service marks, trade secrets, or copyrights of Schaake Consulting, LLC.
+
+Section 6.09 -- Employee Pirating:  Customer shall not induce or solicit (directly or indirectly) any Associate to leave the employ or hire of Schaake Consulting, LLC.  Customer shall not engage (directly or indirectly) the services of such Associate (as an employee, consultant, independent contractor, or otherwise) without the advance written consent of Schaake Consulting, LLC.
+
+Section 6.10 -- U.S. Government Restricted Rights:  If Customer is the U.S. Government or an agency or department thereof (collectively “Government”), UnitTester Component and Plugin is provided with RESTRICTED RIGHTS. Use, duplication or disclosure by the Government is subject to restrictions as set forth in subparagraphs (c)(1) and (2) of the Commercial Computer UnitTester Component and Plugin Restricted Rights clause at 48 C.F.R. 52.227-19.
+
+Section 6.11 -- Proprietary Notices:  Customer shall not remove, alter or obscure any copyright notices or other proprietary legends displayed by or used by Schaake Consulting, LLC in connection with or related to UnitTester Component and Plugin.
+
+Section 6.12 -- Trademarks:  Schaake Consulting, LLC trademarks, trade dress, logos, tradenames or insignia (“Schaake Consulting, LLC Marks”), including (without limitation) UnitTester Component and Plugin, are owned exclusively by Schaake Consulting, LLC.  Schaake Consulting, LLC shall retain all rights, title and ownership interests in Schaake Consulting, LLC Marks.  Customer shall not (directly or indirectly) use any trademark, tradename, trade dress, insignia or logo that is similar to or a colorable imitation of any Schaake Consulting, LLC Marks.
+
+Section 6.13 -- Continuation:  The terms and conditions of this Article VI shall survive termination and cancellation of this Agreement.
+
+ARTICLE VII:  MISCELLANEOUS
+
+Section 7.01 -- Assignments:  All assignments of rights under this Agreement by Customer without the prior written consent of Schaake Consulting, LLC shall be void.
+
+Section 7.02 -- Public Announcement:  All public announcements of the relationship of Schaake Consulting, LLC and Customer under this Agreement shall be subject to the prior written approval of Schaake Consulting, LLC. Schaake Consulting, LLC shall have the right to use the name of Customer as a reference for marketing purposes in connection with UnitTester Component and Plugin.
+
+Section 7.03 -- Entire Agreement:  This Agreement and the Sales Agreement contain the entire understanding of the parties and supersede previous verbal and written agreements between the parties concerning the System and UnitTester Component and Plugin.  In the event of a conflict between the terms of this Agreement and the terms of the Sales Agreement, the terms of this Agreement shall prevail.
+
+Section 7.04 -- Amendments and Modifications:  Alterations, modifications or amendments of a provision of this Agreement shall not be binding unless such alteration, modification or amendment is in writing and signed by Schaake Consulting, LLC and Customer.
+
+Section 7.05 -- Severability:  If a provision of this Agreement is rendered invalid, the remaining provisions shall remain in full force and effect.
+
+Section 7.06 -- Captions:  The headings and captions of this Agreement are inserted for convenience of reference and do not define, limit or describe the scope or intent of this Agreement or any particular section, paragraph, or provision thereof.
+
+Section 7.07 -- Counterparts:  This Agreement may be executed in multiple counterparts, each of which shall be deemed an original, but all of which together shall constitute one and the same instrument.
+
+Section 7.08 -- Governing Law:  This Agreement shall be governed by the laws of the State of Washington without regard to any rules of conflict or choice of laws which require the application of laws of another jurisdiction and venue shall be in [County, City and State of Venue].
+
+Section 7.09 -- Notice:  Notices shall be in writing and shall be deemed delivered when delivered by commercial overnight delivery service, by courier, Certified or Registered Mail with Return Receipt Requested or by hand to the address set forth below for Schaake Consulting, LLC and to the address set forth on the Sales Agreement for Customer. Notice shall be deemed given on the date of receipt - as evidenced in the case of Certified or Registered Mail by Return Receipt.
+
+Schaake Consulting, LLC:			Address:
+
+
+
+Section 7.10 -- Pronouns/Gender:  Pronouns and nouns shall refer to the masculine, feminine, neuter, singular or plural as the context shall require.
+
+Section 7.11 -- Bankruptcy:  If Schaake Consulting, LLC must institute, defend, appear or attend a bankruptcy proceeding as a result of the filing of bankruptcy by Customer, fees and expenses shall be paid by Customer.  If Customer has a bankruptcy proceeding filed against it, Schaake Consulting, LLC shall recover attorney fees, expert witness fees, and other costs incurred by Schaake Consulting, LLC in connection with the bankruptcy proceeding, hearing or trial.
+
+Section 7.12 -- Waiver:  Any waiver of a provision of this Agreement by Schaake Consulting, LLC shall not be binding unless such waiver is in writing and signed by Schaake Consulting, LLC.  Waiver by Schaake Consulting, LLC of any breach of this Agreement shall not constitute waiver of any other breach.  Any failure by Schaake Consulting, LLC to enforce a provision of this Agreement shall not constitute a waiver or create an estoppel from enforcing such provision.
+
+Section 7.13 -- Relationship of the Parties:  It is agreed that the relationship of Schaake Consulting, LLC and Customer is primarily that of licensor and licensee or seller and customer respectively.  Nothing herein shall be construed as creating a partnership, an employment relationship, or an agency relationship between the parties, or as authorizing either party to act as agent for the other.  Each party shall maintain its separate identity.
+
+Section 7.14 -- Arbitration:  Any controversy or claim arising out of or relating to this Agreement, or breach thereof, shall be settled by arbitration in accordance with the Arbitration Rules of MyTechnologyLawyer.com in Yakima, Washington. Judgment upon the award rendered by the arbitrators may be entered in any court having jurisdiction thereof.  Qualified Arbitrators shall be selected by the parties in accordance with the Arbitration Rules of MyTechnologyLawyer.com.  Each party shall have the right of discovery as set forth in the Federal Rules of Civil Procedure. The Arbitration shall be administered by MyTechnologyLawyer.com.
+
+Section 7.15 -- Assurances:  Each party hereby represents and warrants that all representations, warranties, recitals, statements and information provided to the other under this Agreement are true, correct and accurate as of the Effective Date to the best of their knowledge.
+
+Section 7.16 -- Litigation Expense:  In the event of litigation or arbitration arising out of this Agreement, each party shall pay its own costs and expenses of litigation or arbitration (excluding fees and expenses of arbitrators and administrative fees and expenses of arbitration).
+
+Section 7.17 -- Equitable Remedies:  The parties hereby acknowledge that damages at law may be an inadequate remedy to Schaake Consulting, LLC.  Schaake Consulting, LLC shall have the right of specific performance, injunction or other equitable remedy in the event of a breach or threatened breach of this Agreement by Customer.

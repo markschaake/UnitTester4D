@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE macros SYSTEM "http://www.4d.com/dtd/2007/macros.dtd" >
+
+<macros>
+
+    <macro name="_unit_custom_log_text" version="2">
+        <text>Unit_CustomLogTextSet("<caret/>";Current method name)</text>
+    </macro>
+
+<macro name="_unit_new_test" version="2">
+<text>If(Unit_BeginTest("<caret/>";Current method name))
+
+End if</text>
+</macro>
+
+<macro name="_unit_create_record" version="2" type_ahead="false"><text><method>Macro_CreateRecord</method></text></macro>
+
+<macro name="_unit_server_startup" version="2" type_ahead="false">
+<text>If (Not(Is compiled mode(*)))
+	ARRAY TEXT($components_at;0)
+	COMPONENT LIST($components_at)
+	If (Find in array($components_at;"UnitTester")>0)
+		EXECUTE FORMULA("Unit__ServerStartup")
+	End if 
+End if </text>
+</macro>
+
+<macro name="_unit_server_shutdown" version="2" type_ahead="false">
+<text>If (Not(Is compiled mode(*)))
+	ARRAY TEXT($components_at;0)
+	COMPONENT LIST($components_at)
+	If (Find in array($components_at;"UnitTester")>0)
+		EXECUTE FORMULA("Unit__ServerShutdown")
+	End if 
+End if</text>
+</macro>
+
+<macro name="_unit_launch_unittester" version="2" type_ahead="false">
+<text>If (Not(Is compiled mode(*)))
+	ARRAY TEXT($components_at;0)
+	COMPONENT LIST($components_at)
+	If (Find in array($components_at;"UnitTester")>0)
+		EXECUTE FORMULA("Unit__LaunchUnitTester")
+	End if
+End if</text>
+</macro>
+
+</macros>

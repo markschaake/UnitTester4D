@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<Preferences4D>
+
+  <BuildApp>
+    <BuildCompiled>False</BuildCompiled>
+    <IncludeAssociatedFolders>False</IncludeAssociatedFolders>
+    <BuildComponent>True</BuildComponent>
+    <BuildApplicationSerialized>False</BuildApplicationSerialized>
+    <BuildApplicationLight>False</BuildApplicationLight>
+    <SourcesFiles>
+      <RuntimeVL>
+        <RuntimeVLIncludeIt>False</RuntimeVLIncludeIt>
+      </RuntimeVL>
+      <CS>
+        <ServerIncludeIt>False</ServerIncludeIt>
+        <ClientMacIncludeIt>False</ClientMacIncludeIt>
+        <ClientWinIncludeIt>False</ClientWinIncludeIt>
+      </CS>
+    </SourcesFiles>
+    <BuildApplicationName>UnitTester</BuildApplicationName>
+    <BuildMacDestFolder>:build:</BuildMacDestFolder>
+    <CS>
+      <BuildServerApplication>False</BuildServerApplication>
+      <BuildCSUpgradeable>False</BuildCSUpgradeable>
+      <CurrentVers>1</CurrentVers>
+    </CS>
+    <ArrayExcludedPluginName>
+      <ItemsCount>0</ItemsCount>
+    </ArrayExcludedPluginName>
+    <ArrayExcludedPluginID>
+      <ItemsCount>0</ItemsCount>
+    </ArrayExcludedPluginID>
+    <ArrayExcludedComponentName>
+      <ItemsCount>0</ItemsCount>
+    </ArrayExcludedComponentName>
+    <Licenses>
+      <ArrayLicenseMac>
+        <ItemsCount>0</ItemsCount>
+      </ArrayLicenseMac>
+    </Licenses>
+  </BuildApp>
+
+</Preferences4D>

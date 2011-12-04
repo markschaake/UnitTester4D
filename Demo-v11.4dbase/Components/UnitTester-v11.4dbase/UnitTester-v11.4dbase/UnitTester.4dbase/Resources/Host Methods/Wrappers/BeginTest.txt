@@ -1,0 +1,14 @@
+`This method wraps Unit_BeginTest
+
+`Returns
+C_BOOLEAN($0)`always returns true so you can use it as a block
+
+`Required parameters
+C_TEXT($1;$description_t;$2;$currentMethod_t)
+
+$description_t:=$1
+$currentMethod_t:=$2
+
+EXECUTE METHOD("Unit_BeginTest";*;$description_t;$currentMethod_t)
+
+$0:=True

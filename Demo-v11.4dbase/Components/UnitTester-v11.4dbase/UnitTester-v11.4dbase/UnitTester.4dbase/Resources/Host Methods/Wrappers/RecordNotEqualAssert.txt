@@ -1,0 +1,27 @@
+  `Required Parameters
+C_POINTER($1;$table_p)
+C_LONGINT($2;$rec1_l)`record number
+C_LONGINT($3;$rec2_l)`record number
+
+  `Optional Parameters
+C_POINTER($4;$ignoreFields_app)  `pointer to fields to ignore in comparison - e.g. you may want to ignore id fields
+C_TEXT($5;$message_t)
+
+$table_p:=$1
+$rec1_l:=$2
+$rec2_l:=$3
+
+If (Count parameters>=4)
+	$ignoreFields_app:=$4
+Else 
+	ARRAY POINTER($ignoreFields_ap;0)
+	$ignoreFields_app:=->$ignoreFields_ap
+End if 
+
+If (Count parameters>=5)
+	$message_t:=$5
+Else 
+	$message_t:=""
+End if
+
+EXECUTE METHOD("Unit_RecordNotEqualAssert";*;$table_p;$rec1_l;$rec2_l;$ignoreFields_app;$message_t)

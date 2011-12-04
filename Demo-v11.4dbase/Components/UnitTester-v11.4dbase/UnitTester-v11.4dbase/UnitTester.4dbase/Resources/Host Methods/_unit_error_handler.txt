@@ -1,0 +1,54 @@
+
+  ` ----------------------------------------------------
+  ` User name (OS): Mark Schaake
+  ` Date and time: 02/26/09, 16:18:07
+  ` ----------------------------------------------------
+  ` Method: Unit_ErrorHandler
+  ` Description:
+  ` Handles errors in the worker process.
+  `
+  ` ----------------------------------------------------
+  `
+  `OPTIONAL PARAMETERS
+C_TEXT($1;$setupTeardown_t)
+  ` Other Variables:
+  ` 
+  `***********************************************************************
+
+If (Count parameters>=1)
+	$setupTeardown_t:=$1
+Else 
+	$setupTeardown_t:=""
+End if 
+
+Case of 
+	: ($setupTeardown_t="")  `this is an error
+		
+		ARRAY TEXT($descriptions_at;0)
+		ARRAY LONGINT($codes_al;0)
+		ARRAY TEXT($codes_at;0)
+		
+		GET LAST ERROR STACK($codes_al;$codes_at;$descriptions_at)
+		
+		C_LONGINT($i)
+		$i:=0
+		For ($i;1;Size of array($descriptions_at))
+			C_TEXT($method_t)
+			EXECUTE METHOD("Unit_CurrentTestCaseMethod";$method_t)
+			If ($codes_al{$i}=37)  `You forgot to share the test method with components
+				EXECUTE METHOD("Unit_BeginTest";*;"Test case method error";$method_t)  `let the developer know what method caused the error
+				EXECUTE METHOD("Unit_TrueAssert";*;False;"Test case method not shared by components and host database")
+			Else 
+				EXECUTE METHOD("Unit_TrueAssert";*;False;$codes_at{$i}+" - "+String($codes_al{$i})+" - "+$descriptions_at{$i})
+			End if 
+			
+		End for 
+		
+	: ($setupTeardown_t="setup")
+		_unit_prev_err_method_t:=Method called on error
+		ON ERR CALL(Current method name)
+		
+	: ($setupTeardown_t="teardown")
+		ON ERR CALL(_unit_prev_err_method_t)
+		
+End case 
