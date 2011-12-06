@@ -14,6 +14,7 @@ Some notes...
     F2R2-NXIP-OA03-JL10
 
 * Please do not contact me for support as I do not have time to provide it
+* There is a Google Group set up for UnitTester here: <https://groups.google.com/forum/?hl=en#!forum/unittester>
 
 Happy Unit Testing!
 
